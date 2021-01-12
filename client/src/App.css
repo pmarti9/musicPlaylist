@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+#container {
+  background-color: gray;
+  color: whitesmoke;
+  border-radius: 10px;
+  border-color: whitesmoke;
+  padding-right: 3em;
+  padding: 10px;
+  text-align: center;
+  font-size: xx-large;
+  border-width: 50%;
+  size: 50%;
+}
+body{
+  background-image: url(./images/piano.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-attachment: fixed;
+}
+p {
+  color: whitesmoke;
+}

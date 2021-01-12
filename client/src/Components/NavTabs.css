@@ -1,0 +1,29 @@
+.navbar {
+    background-color: black;
+    position: top fixed;
+    color: whitesmoke;
+}
+.navbar.navbar-expand-lg{
+    position: top;
+}
+.bg-light {
+    background-color: black;
+}
+a.navbar-brand{
+    background-color: black;
+    color: white; 
+}
+ul.nav.nav-tabs{
+    background-color:black;
+    color:white;
+    text-align: right;
+    /* display: block; */
+}
+a.nav-link{
+    text-decoration: none;
+    color: white;
+  
+}
+li {
+    text-align: left;
+}
